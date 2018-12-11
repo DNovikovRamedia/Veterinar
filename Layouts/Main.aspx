@@ -31,7 +31,7 @@
         <script src="/js/main.js"></script>
 </head>
 <body>
-<form id="cn1" runat="server">
+<form id="cn12" runat="server">
         <!--[if lt IE 7]>
             <p class="browsehappy">Вы пользуетесь <strong>устаревшим</strong> браузером. Пожалуйста <a href="http://browsehappy.com/">обновите браузер</a>.</p>
         <![endif]-->   
